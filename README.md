@@ -1,4 +1,6 @@
 # US-Accidents-Analysis
+![US Accidents Analysis](https://github.com/iambitttu/US-Accidents-Analysis/assets/117813323/f8f856ed-809d-4953-80f4-f0f3c39fcc08)
+
 https://public.tableau.com/app/profile/bittu.kumar.singh/viz/USAccidentsAnalysis_16890077937510/USAccidentsAnalysis
 
 Introduction:
